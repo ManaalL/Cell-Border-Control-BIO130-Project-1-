@@ -2,7 +2,7 @@
 
 A self-paced review tool for introductory cell biology, built around the membrane transport topics in BIOL 130. The app follows one case study from start to finish: how an epithelial cell lining the small intestine absorbs glucose from a meal and passes it into the blood.
 
-**Live site:** [add your GitHub Pages link here]
+**Live site:** (https://manaall.github.io/Cell-Border-Control-BIO130-Project-1-/)
 
 ## Purpose
 
