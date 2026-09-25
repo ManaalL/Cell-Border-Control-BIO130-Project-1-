@@ -54,4 +54,4 @@ The app is a single HTML file with no dependencies beyond Google Fonts. It runs 
 
 ## Author
 
-[Your name], [program and university]. Built with the help of Claude (Anthropic) for design and coding.
+Manaal Lakhani, Honours Sciences @ UW. Built with the help of Claude (Anthropic) for design and coding.
